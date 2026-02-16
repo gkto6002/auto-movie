@@ -58,7 +58,7 @@ def generate_company_intro_video():
     # APIリクエスト設定
     # ---------------------------------------------------------
     prompt_text = (
-        "Bring the provided logo image to life. The static logo transforms into a heavy industrial scene. Close-up of a steel mold being carved by a CNC machine with sparks flying in slow motion. Professional, clean, and high-tech atmosphere. 8k resolution. Audio: Industrial ambient sounds of machinery humming. A deep, professional Japanese male narrator speaks clearly and slowly: [Kuriesu Seiki, Kouhinsitsu wo todokeru] (meaning: Kries Seiki, delivering high quality). The voice is authoritative and trustworthy."
+        "ニュース速報のスタイル。「Breaking News」のグラフィック。工場を背景にしたニュースキャスターがデスクに座っている。見出し：「速報：クリエス精機、ミクロン単位の壁を突破」。ハイテクな測定機器と完璧な製品の映像へ切り替わる。"
     )
 
     headers = {"Authorization": f"Bearer {API_KEY}"}

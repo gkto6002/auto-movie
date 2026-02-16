@@ -1,2 +1,9 @@
 *.DS_Store
 *.env
+
+# 再帰的にすべての階層の package フォルダを無視
+package/
+
+# 動画・圧縮ファイルを無視
+*.mp4
+*.zip
