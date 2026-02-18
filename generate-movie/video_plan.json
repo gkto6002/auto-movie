@@ -1,116 +1,56 @@
 [
     {
         "id": 1,
-        "title": "【神回】日本の町工場が本気出した結果wwww #2ch",
-        "prompt": "日本の匿名掲示板風の動画。画面には「この工場ヤバすぎwww」「日本の技術力神かよ」「精度どうなってるん」といったコメントが流れる。背景映像は、明るい照明効果と共に、複雑な金型が精密に組み上げられていく高速映像。最後は輝く会社のロゴで終わる。",
+        "title": "【男のロマン】工場の金型が「変形合体ロボ」に進化した瞬間",
+        "prompt": "Japanese mecha anime style, high-quality 2D cel animation. A heavy industrial injection mold sits in a dimly lit factory. Suddenly, it begins a dynamic mechanical transformation. Metal blocks slide, rotate, and interlock with intense sparks and steam effects. The mold reconfigures into a sleek, powerful warrior robot. The robot strikes a dramatic heroic pose with glowing eyes. High contrast, vibrant colors, speed lines, dramatic camera angle.",
         "s3_image_key": null
     },
     {
         "id": 2,
-        "title": "【放送事故】工場の機械が勝手に変形し始めたんだが...！？",
-        "prompt": "アクション映画風。工場のフロアにある巨大な射出成形機が、突然機械的に変形し始める。金型プレートとギアで構成された巨大で強力なロボットに変形する。ロボットは胸に会社のロゴを輝かせ、誇らしげにポーズをとる。",
+        "title": "【予算崩壊】金型メーカーが本気で「SF映画」を作った結果がヤバい",
+        "prompt": "Cinematic Hollywood movie scene, epic sci-fi. A massive, highly detailed industrial injection mold floats in deep space, reflecting sunlight and distant stars. It begins a complex mechanical transformation. Heavy metal plates shift, gears turn, and thrusters emerge, releasing bursts of blue plasma energy. It reconfigures into a sleek, armored spaceship. The ship blasts off, flying rapidly past a giant planet and asteroids. 8k photorealistic, highly detailed textures, lens flare, dramatic orbital lighting, wide aspect ratio.",
         "s3_image_key": null
     },
     {
         "id": 3,
-        "title": "【閲覧注意】深夜の工場に潜入したら映ってはいけないモノが...",
-        "prompt": "シネマティックなホラー映画風。夜の暗く霧がかった工場。点滅する照明が、そびえ立つ巨大な金型を照らし出す。カメラが恐る恐る機械に近づくと、突然まばゆい光と共に機械が動き出し、美しく輝く自動車部品が現れる。恐怖が感動へと変わる演出。",
+        "title": "【閲覧注意】最新の金型から「リアルすぎる美女」が生まれて踊り出した...",
+        "prompt": "Hollywood blockbuster sci-fi style. A pristine, brightly lit futuristic factory floor flooded with daylight and white LED illumination. A massive, state-of-the-art injection molding machine slowly opens, releasing clouds of clean white steam. Revealed inside is a newly molded, hyper-realistic female android with flawless synthetic skin and subtle metallic details at her joints. As she steps out into the light, she immediately performs a sharp, energetic, trendy viral dance routine (modern pop/hip-hop choreography) with perfect mechanical precision. Dynamic camera tracking, 8k resolution, highly detailed textures, photorealistic, cinematic lighting.",
         "s3_image_key": null
     },
     {
         "id": 4,
-        "title": "【衝撃】遺跡から発掘された「謎の部品」を解析したら現代を超えていた件",
-        "prompt": "ミステリー番組風のドキュメンタリー。遺跡発掘現場の粗い映像で、専門家が複雑な金属部品を掲げている。場面が切り替わり、清潔で未来的な工場でロボットが同じ部品を作っている様子が映る。テロップ：「ロストテクノロジー？いいえ、クリエス精機です」。",
-        "s3_image_key": "source-images/ancient_01.jpg"
+        "title": "【神回】金型から「究極のアイドル」を射出成形してみたwwww",
+        "prompt": "High-budget commercial style. A pristine, brightly lit futuristic factory floor flooded with daylight and white LED illumination. A massive, state-of-the-art injection molding machine slowly opens, releasing clouds of clean white steam and glittering particles. Revealed inside is a newly molded, incredibly cute Japanese teenage idol. She features flawless skin, a beaming smile, and is wearing a highly detailed, colorful frilly stage costume with ribbons. As she steps out into the light, she immediately performs a super catchy, energetic Kawaii dance routine (J-Pop choreography) with perfect precision. Dynamic camera tracking, 8k resolution, highly detailed textures, photorealistic, bright and vivid colors.",
+        "s3_image_key": null
     },
     {
         "id": 5,
-        "title": "ハリウッド映画化決定！？（嘘）山形の町工場が壮大すぎる",
-        "prompt": "壮大な映画の予告編スタイル。朝日に照らされる巨大な工場地帯の空撮。設計図を真剣に見つめる技術者たち。激しい機械加工のアップ。画面にフラッシュする文字：「たった一つの企業が」「世界の礎を築く」「究極の精度」。",
+        "title": "【ジョジョ風】金型に「スタンド能力」が発現したようですッ！",
+        "prompt": "H80s retro manga art style video. Heavy black ink outlines, detailed cross-hatching shading, and high-contrast dramatic lighting. A menacing atmosphere fills a dark industrial factory. A massive metal injection molding die sits heavily on the floor. Suddenly, supernatural purple and gold energy erupts from the mold. The metal parts shift, crack, and reconfigure rapidly in a mechanical metamorphosis. From the transforming metal emerges a powerful, muscular humanoid spirit entity. Its armored body is intricately designed with industrial mold plates, gears, and ejector pins. The entity strikes an exaggerated, artistic high-fashion pose. A psychedelic aura of unnatural colors swirls around it. Floating, jagged Japanese sound effect text appears on screen. The camera angle is low and dramatic, emphasizing power.",
         "s3_image_key": null
     },
     {
         "id": 6,
-        "title": "【神業】道端の石ころすら宝石に変える伝説の職人に密着してみた",
-        "prompt": "日本のテレビドキュメンタリー風（プロフェッショナルな雰囲気）。手持ちカメラが、真剣な表情で金型を手磨きする熟練職人を追う。彼は微笑んで巨大な工作機械を指差す。テロップ：「職人の魂と、最新技術の融合」。",
+        "title": "【霹靂一閃】金型が「雷の呼吸」で世界新記録を叩き出した件",
+        "prompt": "Cinematic sports broadcast style. The Olympic 100m sprint final in a massive stadium. At the starting line, among human athletes, sits a huge, heavy industrial injection molding metal die. The starting gun fires.Instantly, the metal block transforms into a young swordsman figure with bright golden hair, wearing a traditional Japanese haori jacket patterned with yellow and orange triangles. He crouches low, hand on a sword hilt, surrounded by crackling yellow electricity.In a blinding flash of lightning and a deafening thunderclap, he vanishes, moving at god-like speed invisible to the naked eye. A trail of golden light tears down the track. He reappears instantly past the finish line, sword already resheathed. The scoreboard flashes NEW WORLD RECORD: 0.001 SEC. The crowd is stunned.",
         "s3_image_key": null
     },
     {
         "id": 7,
-        "title": "【緊急速報】物理法則を無視した加工に成功しました",
-        "prompt": "ニュース速報のスタイル。「Breaking News」のグラフィック。工場を背景にしたニュースキャスターがデスクに座っている。見出し：「速報：クリエス精機、ミクロン単位の壁を突破」。ハイテクな測定機器と完璧な製品の映像へ切り替わる。",
+        "title": "【KICK BACK】金型の悪魔 vs 工場のヒーロー、激突。",
+        "prompt": "Shonen action anime style, high-quality animation. An industrial factory district under a cloudy sky. In the center sits a massive, heavy steel injection molding die. Suddenly, with a flash of energy, the metal die mechanically unfolds and transforms into a giant Mold Robot – a towering entity made of heavy metal plates, gears, and steam. Facing it is a cool hero wearing a white dress shirt and a black tie. He features a unique mechanical helmet design resembling utility knife blades (box cutters), and large cutter blades emerge from his gauntlets. The hero dashes with high speed to clash with the giant robot. Bright sparks fly as metal hits metal in a dynamic, stylish battle sequence. No gore, just intense mechanical action. Cinematic camera angles, dramatic lighting.",
         "s3_image_key": null
     },
     {
         "id": 8,
-        "title": "海外の反応「日本人は宇宙人か？」クレイジーな技術に世界が震えた",
-        "prompt": "YouTubeのリアクション動画風。画面分割。左側では外国人が大げさに驚いた顔をしている。右側では、多軸加工機が金属ブロックから複雑なタービンブレードを削り出す信じられない映像。テロップ：「日本の精度、クレイジーすぎる！」。",
+        "title": "【バルス】森に捨てられた金型が「古代兵器」になってビーム撃ってきた",
+        "prompt": "Classic Japanese hand-drawn cel animation style with painterly watercolor backgrounds featuring lush nature and towering clouds. A massive, aged industrial metal injection molding die, heavily covered in moss and rust, sits in a grassy meadow. It slowly, mechanically transforms with clunky gears into a tall, ancient automaton robot with long, multi-jointed arms and a round, domed head with small lens-like eyes (resembling a forgotten guardian of an ancient civilization). The robot stands solemnly and fires a powerful, devastating beam of red energy from its face lenses, creating a massive explosion in the distant landscape. The atmosphere is nostalgic, gentle, yet melancholic. Wide cinematic shot.",
         "s3_image_key": null
     },
     {
         "id": 9,
-        "title": "【ガチ】作ってて頭おかしくなりそうだった金型ベスト3",
-        "prompt": "ベスト3ランキング動画のスタイル。エネルギッシュな演出。「第3位：超巨大自動車金型」の映像。「第2位：超微細医療用金型」の映像。「第1位：クリエス精機の究極金型」。これまでの最も印象的な実績のモンタージュ映像。",
-        "s3_image_key": null
-    },
-    {
-        "id": 10,
-        "title": "業務用のライトセーバーで鉄を切ってみた結果...ヤバすぎた",
-        "prompt": "SFアクション映画風。暗い工場の中で、2本のロボットアームが光るレーザーカッターを持ち、剣のように交差させている。劇的な光のエネルギーが飛び散る。それらは未来的なエンジンブロックを構築している。完成品は青く発光している。",
-        "s3_image_key": null
-    },
-    {
-        "id": 11,
-        "title": "30年前のビデオテープが出てきたので再生してみた【放送事故？】",
-        "prompt": "1980年代のVHSビデオ風の画質。シンセウェーブな雰囲気。走査線ノイズが入った映像。「KURIESU SEIKI」のレトロフューチャーなロゴアニメーション。古い工作機械と最新の機械が並んで稼働し、歴史を感じさせる映像。",
-        "s3_image_key": null
-    },
-    {
-        "id": 12,
-        "title": "※良い子は真似しないでください（鉄の塊的な意味で）",
-        "prompt": "欧米のカートゥーンアニメ風。擬人化されたおっちょこちょいな金属ブロックのキャラクターが、巨大だが優しそうな金型マシンに怯えている。マシンがブロックをハグすると、ピカピカで幸せそうな完成品になって飛び出してくる。工場全体が楽しそうに踊る。",
-        "s3_image_key": null
-    },
-    {
-        "id": 13,
-        "title": "【初公開】iPhoneの裏側、全部見せます（物理）",
-        "prompt": "雑学紹介動画のスタイル。一般的なスマートフォンのアップ。「知ってた？」というテロップ。スマホがワイヤーフレームになり、そのボディを作るための複雑な金型が表示される。テロップ：「金型がないと、作れません」。",
-        "s3_image_key": null
-    },
-    {
-        "id": 14,
-        "title": "【睡眠用】一生見てられる...鉄が削れる音が気持ち良すぎる動画 #ASMR",
-        "prompt": "満足感のあるドキュメンタリー風。金型製造の全工程を美しく編集したモンタージュ。1. 金属ブロックの切り出し。 2. 水冷しながらのCNC加工。 3. 職人による手磨き。 4. 射出成形。スムーズな場面転換。",
-        "s3_image_key": null
-    },
-    {
-        "id": 15,
-        "title": "ゴミ捨て場にあった鉄屑を磨いたら国宝級の輝きになったwww",
-        "prompt": "レストア（修復）動画のスタイル。汚れて使い古された古い金型が映る。専門家チームがハイテクツールを使って洗浄、修理、研磨を行う。最後のショットでは、新品同様に蘇り、光を完璧に反射する金型が映し出される。",
-        "s3_image_key": null
-    },
-    {
-        "id": 16,
-        "title": "弊社に「美少女」が入社しました（※ただし金型）",
-        "prompt": "90年代の美少女アニメのオープニング風。キラキラした瞳の『金型ちゃん』が工場の制服を着てウインクする。彼女が魔法の杖（ノギス）を振ると、星のエフェクトが飛び散り、無骨な鉄の塊が「ポン！」という煙とともに、ピカピカで可愛い精密部品に変身する。",
-        "s3_image_key": null
-    },
-    {
-        "id": 17,
-        "title": "異世界転生したら「最新工作機械」持ちで無双した件",
-        "prompt": "異世界ファンタジーアニメ風。中世の薄暗い鍛冶屋で、ドワーフたちが困っている。そこへ現代のCNC工作機械が光に包まれて召喚される。魔法陣のようなデジタルUIが空中に浮かび、レーザーの魔法で『伝説の金型』が一瞬で生成される。ドワーフたちが驚愕する。",
-        "s3_image_key": null
-    },
-    {
-        "id": 18,
-        "title": "【神回】工場の機械が「必殺技」を覚えたようです",
-        "prompt": "少年漫画のバトルアニメ風。激しい集中線と劇画タッチ。ロボットアームがエネルギー（オーラ）をチャージし、赤く発光する。必殺技名『超高速切削（ハイスピード・マシニング）！』のテロップと共に、金属ブロックへ突進。衝撃波のエフェクト。煙が晴れると、完全な製品が立っている。",
-        "s3_image_key": null
-    },
-    {
-        "id": 19,
-        "title": "工場長がブチギレる5秒前",
-        "prompt": "コミカルなギャグアニメ風。シンプルな線画。工場のベルトコンベアが突然暴走し、金型がトランポリンのように工場のあちこちを跳ね回る。コミカルな効果音文字（BOING! CRASH!）が出る。最終的に金型が積み重なって、偶然にも完璧な会社のロゴの形に着地し、ファンファーレが鳴る。",
+        "title": "【サービスサービス】汎用人型決戦兵器 vs 射出成形金型（使徒）",
+        "prompt": "Classic 90s Japanese mecha anime style, cel animation texture with high contrast. In a fortified futuristic city at sunset. A massive steel injection molding die sits on the street. Instantly, it mechanically twists and morphs into a bizarre, towering abstract geometric enemy with a glowing red core. Charging at it is a slender, blue-armored bio-mechanical humanoid weapon with a single glowing eye lens. The blue mech moves with heavy weight, wielding a glowing vibro-blade, slashing at the metal enemy. Hexagonal orange light barriers ripple upon impact. Debris flies. Intense, dramatic atmosphere.",
         "s3_image_key": null
     }
 ]
