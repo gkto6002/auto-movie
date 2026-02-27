@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "【W杯決勝】金型のオーバーヘッドが決まった瞬間",
+        "prompt": "TV sports broadcast style, World Cup Final stadium atmosphere, night game. A cross ball flies towards the penalty area. A massive industrial injection molding die (heavy steel block with hoses and gears) leaps into the air. It performs a perfect, gravity-defying bicycle kick. The heavy steel body spins violently, impacting the soccer ball with explosive power. The ball transforms into a beam of light, tearing through the net. The stadium erupts. The video ends with a close-up of the stadium scoreboard flashing the winner's name: \"KURIESU SEIKI\" in bright LED lights.",
+        "s3_image_key": null
+    },
+    {
+        "id": 2,
+        "title": "【奇跡】9回裏2アウト、金型の逆転サヨナラホームラン",
+        "prompt": "Cinematic baseball broadcast style, bottom of the 9th inning, bases loaded. At the batter's box stands a heavy industrial injection molding die, holding a bat with improvised mechanical clamps. The pitcher throws a 100mph fastball. The mold swings with terrifying torque. CRACK! The ball is launched into the stratosphere. The mold performs a cool bat flip. The huge stadium jumbotron screen displays the text \"HOME RUN\" and \"KURIESU SEIKI\" with fireworks exploding.",
+        "s3_image_key": null
+    },
+    {
+        "id": 3,
+        "title": "【NBA】ゴールリングごと破壊する金型のスラムダンク",
+        "prompt": "NBA broadcast style, high-energy arena. Fast break. A massive steel injection mold glides down the court. It launches from the free-throw line, soaring through the air. The mold slams a basketball through the hoop with hydraulic force, shattering the glass backboard. The crowd goes wild. The camera zooms into the electronic scoreboard which flashes the team name \"KURIESU SEIKI\" in victory colors.",
+        "s3_image_key": null
+    },
+    {
+        "id": 4,
+        "title": "【世界新】9秒58を余裕で切る金型の爆走",
+        "prompt": "Olympic track and field broadcast, 100m sprint final. Among human sprinters, a heavy industrial injection molding die is moving at supersonic speed, hovering slightly using blue thruster flames from cooling ports. It tears through the finish line tape, creating a sonic boom. The photo-finish camera shows the mold winning. The official timer screen displays \"NEW RECORD\" and the name \"KURIESU SEIKI\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 5,
+        "title": "【物理法則無視】金型の美しすぎる背面跳び",
+        "prompt": "Track and field broadcast, high jump final. A massive steel injection mold approaches the bar. It launches vertically. In slow motion, the square heavy block rotates gracefully, performing a perfect Fosbury Flop over the bar set at 3 meters high. It clears the bar and lands heavily. The judges hold up scorecards, and the digital overlay on screen displays the gold medalist: \"KURIESU SEIKI\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 6,
+        "title": "【水没せず】金型の猛烈なバタフライ",
+        "prompt": "Olympic swimming pool broadcast. A heavy injection mold dives into the water with a massive splash. Underwater shot: ejector pins working like propellers. Surface shot: The mold breaches the water performing a powerful butterfly stroke, creating massive waves. It touches the wall first. Steam rises from the hot metal. The pool scoreboard clearly shows the winner: \"KURIESU SEIKI\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 7,
+        "title": "【衝撃映像】金型が金型を持ち上げている...",
+        "prompt": "Weightlifting competition broadcast. On the stage, a medium-sized injection mold prepares to lift a barbell loaded with two enormous molds. Steam vents from its sides. With a sudden jerk, it lifts the massive weight overhead. The floor cracks. Three green lights flash. The background banner changes to display the champion's name: \"KURIESU SEIKI\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 8,
+        "title": "【優雅】金型のトリプルアクセル",
+        "prompt": "Winter Olympics figure skating broadcast. Elegant classical music. A heavy industrial injection mold is gliding gracefully on ice, wearing a pink frilly skirt. It launches into a triple axel jump, spinning rapidly. It lands perfectly, carving the ice. Flowers are thrown. The TV broadcast overlay displays the score \"100.00\" and the name \"KURIESU SEIKI\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 9,
+        "title": "【黒帯】金型の鮮やかな一本背負い",
+        "prompt": "Judo Olympic final match. A massive injection mold with a black belt is grappling with a judo champion. The mold performs a lightning-fast shoulder throw (Seoi-nage). The opponent slams onto the tatami. The referee shouts. The digital floor projection lights up with the winner's name: \"KURIESU SEIKI\" as the mold bows.",
+        "s3_image_key": null
+    },
+    {
+        "id": 10,
+        "title": "【最速】F1マシンを抜き去る金型",
+        "prompt": "F1 Grand Prix broadcast. F1 cars racing. A massive steel injection mold, fitted with racing tires and a rear wing, overtakes the lead car on a curve with sparks flying. It crosses the finish line first as the checkered flag waves. The scene cuts to the podium where the mold is sprayed with champagne, with a large \"KURIESU SEIKI\" logo in the background.",
+        "s3_image_key": null
+    }
+]

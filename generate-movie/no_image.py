@@ -17,7 +17,7 @@ def generate_company_intro_video():
     # ---------------------------------------------------------
     # ここに生成したい動画の内容を記述します
     prompt_text = (
-        "Vibrant Japanese Isekai fantasy anime style with cel-shading animation. Set in a mystical ancient ruin altar. A massive, out-of-place heavy industrial steel injection molding die rests on a glowing pedestal. Steam erupts, gears whir loudly, and the mold mechanically opens to eject a blindingly glowing shining legendary sword. A young hero character in ornate shining armor catches the sword. Facing a towering, shadowy horned Demon Lord creature across the battlefield, the hero shouts intensely with visible mouth movements consistent with Japanese speech (like 'IKUZO!' or 'HISSATSU!'), swinging the sword to unleash a colossal wave of golden magical energy that obliterates the Demon Lord in a massive light explosion."
+        "Real robot sci-fi anime style. Deep space background with colonies. A hatch on a white carrier ship opens. A massive industrial injection molding die, equipped with high-tech thrusters and a glowing shield, launches into the void. It accelerates rapidly, emitting a powerful trail of pink energy light. Audio: Intense thruster sounds and energy hum. A young pilot's voice shouts: \"KURIESU SEIKI, Launching!\"."
     )
 
     # ---------------------------------------------------------

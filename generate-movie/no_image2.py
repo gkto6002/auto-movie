@@ -17,7 +17,7 @@ def generate_company_intro_video():
     # ---------------------------------------------------------
     # ここに生成したい動画の内容を記述します
     prompt_text = (
-        "異世界に転生したら射出成形金型の世界だった。石畳の中世ヨーロッパ風の美しい市場広場の中央に、巨大で場違いな重厚な工業用鋼製射出成形金型が置かれている。冷却ホースやイジェクタピンが付いている。金型の横には青いホログラフィックのRPGステータス画面が浮かんでいる。金型は魔法の光を放ちながら機械的に開き、完璧に成形されたプラスチック製の剣を射出する。動物の耳を持つ若い女性冒険者がそれを見てショックと困惑の表情を浮かべている。コミカルで軽快な雰囲気。"
+        "Shonen battle anime style. Dark aura rises from an injection mold. Silhouette shows its mechanical parts stretching incredibly tall (like long hair). The energy output is terrifying. It winds up a Jajanken punch. Audio: Massive energy charging sound. A sad, mature voice says: \"First comes rock... KURIESU SEIKI.\"."
     )
 
     # ---------------------------------------------------------

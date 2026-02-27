@@ -1,0 +1,836 @@
+[
+    {
+        "id": 1,
+        "title": "【行きまーす！】燃え上がれ、金型 #ロボット",
+        "prompt": "Real robot sci-fi anime style. Deep space background with colonies. A hatch on a white carrier ship opens. A massive industrial injection molding die, equipped with a beam rifle and shield, launches into the void. Thrusters flare. It aims and fires a pink laser beam. Audio: Intense thruster sounds and laser blasts. A young pilot's voice shouts: \"KURIESU SEIKI, Launching!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 2,
+        "title": "【暴走モード】逃げちゃダメだ... #汎用人型決戦兵器",
+        "prompt": "90s mecha anime style. Neo-futuristic city at sunset. A purple and green bio-mechanical injection mold goes berserk. It roars at the sky. An orange hexagonal energy barrier (AT Field) rips open in front of it. Audio: A terrifying beast-like roar and barrier shattering sound. A panicked command center voice yells: \"It's out of control! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 3,
+        "title": "【全集中】水の呼吸・壱ノ型『射出』 #呼吸",
+        "prompt": "Historical Japanese sword action style. Taisho era forest at night. An injection mold holding a katana stands ready. It slashes forward, generating massive, ukiyo-e style blue water waves from the blade. A boulder is sliced cleanly in two. Audio: Sound of rushing water and a sharp blade unsheathing. A calm swordsman voice says: \"Water Breathing... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 4,
+        "title": "【閲覧注意】エンジン全開の悪魔 #チェンソー",
+        "prompt": "Gritty dark fantasy action style. A dirty urban alley. An injection mold pulls a starter cord on its chest. Loud engine noises rev up. Chainsaw blades erupt from its head and arms. It screams chaotically and shreds through a horde of zombies. Blood-like oil splatters. Audio: Loud chainsaw engine revving. A chaotic, raspy voice screams: \"KURIESU SEIKI!!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 5,
+        "title": "【領域展開】天上天下唯我金型 #呪術",
+        "prompt": "Modern supernatural battle anime style. An injection mold removes a blindfold. It crosses its fingers in a specific sign. The background dissolves into an infinite void of space and glowing eyes. The target is frozen in information overload. Audio: A creepy, echoing sound of magic activating. A cool, confident voice whispers: \"Domain Expansion... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 6,
+        "title": "【分身の術】チャクラ練りすぎた結果 #忍者",
+        "prompt": "Ninja battle anime style. A hidden village with stone faces. An injection mold runs with its arms behind its back (ninja run). It performs rapid hand signs. A puff of smoke explodes, and hundreds of clone molds appear, filling the screen. Audio: Japanese flutes and smoke poof sounds. A ninja voice shouts: \"Shadow Clone Jutsu! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 7,
+        "title": "【覇王色】海賊王に俺はなる！ #海賊",
+        "prompt": "Pirate adventure anime style. On the deck of a sunny ship. An injection mold wearing a straw hat stretches its mechanical arm like rubber. It punches a giant sea monster with a black-coated (Haki) fist. A large Japanese sound effect text \"DON!!\" appears. Audio: Ocean waves and a stretching sound. An energetic captain shouts: \"I'm gonna be KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 8,
+        "title": "【葬送】1000年生きる金型の魔法 #エルフ",
+        "prompt": "Gentle high fantasy style. Grassy ruins. An injection mold holds a magic staff. A massive, intricate blue geometric magic circle appears in the sky. It fires a silent, devastating beam of pure magic that disintegrates a monster. Audio: Magical humming and a silent beam. A quiet, emotionless female voice says: \"Zoltraak. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 9,
+        "title": "【変人速攻】ボールが爆発するスパイク #バレー",
+        "prompt": "High school volleyball anime style. A gym court. An injection mold jumps incredibly high with black crow feathers flying around it. It spikes a volleyball at blinding speed past three blockers. The ball hits the floor with a boom. Audio: Squeaking sneakers and a heavy ball impact. A teammate shouts: \"Nice kill! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 10,
+        "title": "【更に向こうへ】プルス・ウルトラ！！ #ヒーロー",
+        "prompt": "American comic inspired anime style. A superhero academy arena. An injection mold glows with multi-colored lightning bolts. It winds up a punch. Large bold text \"SMASH!!\" appears on screen as it punches a giant robot, creating a wind pressure blast. Audio: Jet engine sounds. A heroic voice shouts: \"United States of... KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 11,
+        "title": "【アーニャ】ちち、金型、わくわく！ #スパイ",
+        "prompt": "Retro 60s spy comedy style. An elegant European living room. An injection mold wearing a tuxedo sits on a couch holding a tea cup. Suddenly, a \"SHOCK\" lightning effect appears over its head as it reads a mind. Sparkles appear around it with \"Waku Waku\" text. Audio: Elegant jazz music. A cute child's voice says: \"Waku Waku! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 12,
+        "title": "【オラオラ】この金型、スタンド使いだッ！ #ジョジョ",
+        "prompt": "Bizarre adventure anime style. High contrast colors and menacing atmosphere. Japanese Katakana sound effects \"Go Go Go\" float in the air. A muscular humanoid spirit (Stand) emerges from the mold and unleashes a rapid rush of punches. Audio: Rapid punching sounds. A deep, cool voice shouts: \"ORA ORA ORA! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 13,
+        "title": "【等価交換】持ってかれた...右腕が！？ #錬金術",
+        "prompt": "Steampunk fantasy style. An injection mold claps its mechanical hands together. Blue alchemical lightning sparks from the ground. A transmutation circle glows red. A giant stone spear rises from the concrete floor. Audio: Electrical crackling and stone rumbling. A young alchemist voice shouts: \"Equivalent Exchange! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 14,
+        "title": "【駆逐してやる】壁の中から巨人が... #進撃",
+        "prompt": "Epic dark fantasy disaster style. A peaceful town behind a 50m wall. Yellow lightning strikes. A colossal, skinless giant made of injection mold steel plates peers over the wall, emitting massive amounts of steam. The camera zooms into its face. Audio: Thunderous lightning and steam hissing. A terrified soldier screams: \"It's... KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 15,
+        "title": "【放送事故】ネオアームストロング砲じゃねーか #銀魂",
+        "prompt": "Gag anime style. A static shot of a Japanese odd-jobs office building (Yorozuya). An injection mold stands still. Only its mouth moves (lip-flap). Pixelated mosaic blurs appear over its \"eyes\". A disclaimer text apologizes for the quality. Audio: A lazy, deadpan voice complains: \"Oi, Shinpachi, isn't this just KURIESU SEIKI?\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 16,
+        "title": "【転生】スライムかと思ったら鉄塊だった件 #異世界",
+        "prompt": "Isekai fantasy style. A cave. A cute blue slime bounces. Suddenly, it glows and transforms into a shiny silver injection mold. A digital HUD overlay appears analyzing \"Skill: Great Sage\". Audio: 8-bit transformation sound. A digital system voice announces: \"Acquired Unique Skill: KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 17,
+        "title": "【真実は一つ】見た目は子供、中身は金型 #名探偵",
+        "prompt": "Classic mystery anime style. A dark room. A heavy door opens with a beam of light. Silhouette of an injection mold. Zoom in to reveal it wearing a blue suit, red bowtie, and glasses. It adjusts the glasses, causing a lens flare. Audio: Suspenseful saxophone music. A young detective voice shouts: \"The culprit is... KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 18,
+        "title": "【全反撃】憤怒の罪（ドラゴン・シン） #七つの大罪",
+        "prompt": "Fantasy battle style. A medieval tavern. An injection mold stands facing a magical fireball. It swings a broken sword hilts. The magic is reflected back with double the power. Dark purple energy swirls. Audio: Magic reflection sound. A boy's voice shouts: \"Full Counter! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 19,
+        "title": "【ヌルフフフ】殺れるもんなら殺ってみな #暗殺",
+        "prompt": "School comedy action style. A classroom. A yellow, round-headed injection mold with tentacles moves at Mach 20 speed, leaving afterimages. It dodges pink anti-sensei bullets fired by students while grading papers. Audio: Mach speed wind sounds and a weird laugh \"Nurufufufu\". The teacher says: \"Study hard at KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 20,
+        "title": "【エゴイスト】世界一のストライカーは俺だ #ブルーロック",
+        "prompt": "Intense soccer survival style. A dark field. An injection mold has a blue flame aura. Chains breaking visual effect around it. Puzzle pieces float in the air, forming a path to the goal. It shoots with intense ego. Audio: Glass shattering sound. A menacing egoist voice whispers: \"I will devour you... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 21,
+        "title": "【覚醒】僕を喰おうとしたんだ... #東京喰種",
+        "prompt": "Dark fantasy horror anime style. A reflection on a wet floor. An injection mold stands in shallow water. Suddenly, its appearance glitches. Four red, glowing tentacles (kagune) made of blood-red energy burst from its back. A single red eye glows on the metal face. White flowers turn into red spider lilies. Audio: Glass cracking sound. A whispered voice says: \"I am a ghoul... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 22,
+        "title": "【推し】嘘はとびきりの愛 #推しの子",
+        "prompt": "Modern idol anime style. A sparkling dome stage. Close up on an injection mold. In its camera lens 'eyes', distinct six-pointed stars are glowing brightly. It holds a microphone and winks. The audience waves colorful glow sticks. Audio: Upbeat idol song intro and massive cheers. A cute idol voice shouts: \"I love you all! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 23,
+        "title": "【卍解】黒い月牙、天を衝く #BLEACH",
+        "prompt": "Stylish supernatural sword action. An injection mold wearing a tattered black shihakusho kimono holds a pitch-black katana. It swings the sword, releasing a massive wave of black and red spiritual energy (Getsuga Tensho) that splits the sky. Rain falls upwards. Audio: Echoing sound of spiritual pressure. A cool voice whispers: \"Bankai... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 24,
+        "title": "【恋愛頭脳戦】お可愛いこと... #かぐや様",
+        "prompt": "Romantic comedy psychological battle. A student council room. An injection mold sits on a chair with a dark, condescending aura. The background turns dark with horror-style text effects. It looks down at the camera. Audio: A 'thud' sound effect. A sophisticated narrator says: \"How cute... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 25,
+        "title": "【幻の6人目】ミスディレクション #黒子のバスケ",
+        "prompt": "High school basketball anime style. A basketball court. An injection mold holds the ball. In a blink, it vanishes from sight using misdirection and reappears instantly under the hoop, passing the ball with invisible speed. Blue light trails follow its movement. Audio: Basketball shoes squeaking and a pass sound. A quiet voice says: \"I am a shadow. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 26,
+        "title": "【オーガ】背中に鬼の顔が！？ #刃牙",
+        "prompt": "Underground martial arts style. Extreme muscle detail. Back shot of an injection mold. The steel surface ripples and contorts, forming the shape of a demon's face (Ogre back) through pure mechanical stress. The air distorts with heat. Audio: Bone crunching sounds. A deep narrator voice announces: \"The strongest creature on Earth... KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 27,
+        "title": "【新世界の神】計画通り... #デスノート",
+        "prompt": "Psychological thriller style. Gothic dark lighting. An injection mold sits in a chair, writing in a black notebook with a fountain pen. A red apple falls in slow motion next to it. It laughs maniacally with distorted shadows. Audio: A dramatic gothic choir and crazy laughter. A voice says: \"I will become the God of the new world. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 28,
+        "title": "【おあがりよ】服が弾け飛ぶ美味さ #食戟のソーマ",
+        "prompt": "Cooking battle ecchi style. A golden light shines from a dish. An injection mold presents the food. The judge (a human) takes a bite and screams in pleasure. The judge's clothes metaphorically explode into shreds due to the deliciousness. Audio: angelic choir and an explosion sound. The chef says: \"Glad you liked it! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 29,
+        "title": "【ワンパン】趣味で金型をやっている者だ #ワンパンマン",
+        "prompt": "Superhero action parody style. A giant meteor is falling towards a city. A plain-looking injection mold with a yellow cape stands on the ground. It throws one normal punch. The meteor is obliterated into dust instantly. The shockwave clears the clouds globally. Audio: A single heavy punch sound and silence. A bored voice says: \"One Punch. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 30,
+        "title": "【度し難い】奈落の底へ... #メイドインアビス",
+        "prompt": "Dark fantasy adventure style. A massive, vertical pit (The Abyss) filled with fog and strange creatures. A small, round injection mold with a helmet descends on a rope. The scenery is beautiful but terrifying. Sunlight filters from above. Audio: Mystical orchestral music and wind. A child's voice says: \"Irredeemable... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 31,
+        "title": "【ギアス】イエス・ユア・ハイネス #コードギアス",
+        "prompt": "Mecha political thriller style. An injection mold wears a black majestic cape and a zero mask. It removes the mask, revealing a glowing red bird-shaped sigil in its lens. It commands a legion of robots. Audio: Eye activation sound. A charismatic commanding voice orders: \"I command you... Buy KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 32,
+        "title": "【ミギー】脳を奪うことに失敗した #寄生獣",
+        "prompt": "Sci-fi body horror style. An injection mold stands on a desk. Suddenly, its right side morphs into a shapeshifting alien blade with an eye and lips. The blade moves with liquid fluidity. Audio: Squishy transformation sounds. An alien voice says: \"Shinichi, look at KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 33,
+        "title": "【魔女化】僕と契約して金型になってよ #まどマギ",
+        "prompt": "Dark magical girl style. A trippy, collage-art style labyrinth (Witch barrier). Scissors and mustache cotton balls float around. An injection mold stands in the center, transforming into a dark silhouette with despair. Audio: Creepy cute music box melody. A cute creature voice says: \"Make a contract with KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 34,
+        "title": "【スターバースト】二刀流の16連撃 #SAO",
+        "prompt": "Virtual reality MMO style. A boss room. An injection mold wields two glowing swords (one teal, one black). It unleashes a blindingly fast 16-hit combo attack on a blue boss monster. \"Switch\" text appears. Audio: Digital sword slash sounds. A hero voice shouts: \"Starburst Stream! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 35,
+        "title": "【ゴンさん】もうこれで終わってもいい #ハンターハンター",
+        "prompt": "Shonen battle anime style. Dark aura rises from an injection mold. Silhouette shows its mechanical parts stretching incredibly tall (like long hair). The energy output is terrifying. It winds up a Jajanken punch. Audio: Massive energy charging sound. A sad, mature voice says: \"First comes rock... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 36,
+        "title": "【毒見】これ、毒です #薬屋のひとりごと",
+        "prompt": "Imperial court mystery style. An injection mold holds a spoon of soup. It tastes it. Freckles appear on its metal face (metaphorically). Sparkles of deduction appear. It smiles mischievously with cat ears effect. Audio: Sparkle sound. A calm, intelligent voice says: \"This is poison. It's KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 37,
+        "title": "【異世界転生】本気出す #無職転生",
+        "prompt": "High fantasy Isekai style. An injection mold holding a staff casts a massive water magic spell \"Cumulonimbus\". Rain floods the plain. The magic scale is overwhelming. Audio: Rain and thunder sounds. An inner monologue voice says: \"I'll get serious at KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 38,
+        "title": "【オカルト】ターボババアだ！ #ダンダダン",
+        "prompt": "Occult action comedy style. An injection mold is running at impossible speeds through a tunnel, possessed by a \"Turbo Granny\" spirit. Purple spectral aura trails behind. Aliens are chasing it. Audio: High speed dashing sound. A granny voice cackles: \"Too slow! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 39,
+        "title": "【霊丸】指先から放つ一撃 #幽遊白書",
+        "prompt": "90s supernatural battle style. An injection mold points its ejector pin like a gun. Blue spirit energy gathers at the tip. It fires a massive blue blast that blows away a stadium wall. Audio: Energy gathering and blast sound. A delinquent voice shouts: \"Spirit Gun! (Reigan!) KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 40,
+        "title": "【極楽浄土】地獄のような楽園 #地獄楽",
+        "prompt": "Historical dark fantasy style. A beautiful island filled with colorful, eerie flowers with faces. An injection mold stands with a sword, surrounded by strange religious statues. The atmosphere is beautiful but deadly. Audio: Eerie traditional Japanese music. A ninja voice says: \"This is Hell. This is KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 41,
+        "title": "【飯テロ】昼メシの流儀・領域展開 #サラリーマン",
+        "prompt": "Seinen manga gourmet style. A delicious-looking tonkatsu set meal steams on a table. An injection mold wearing a business suit sits, trembling with anticipation. It takes a bite. Suddenly, the background shifts into a psychedelic void of flavor (Domain Expansion). Audio: Jazz music. An inner monologue says: \"This flavor... is KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 42,
+        "title": "【ケツだけ】嵐を呼ぶ金型 #5歳児",
+        "prompt": "Childish gag anime style with wobbly lines. A kindergarten room. An injection mold shakes its rear plate side-to-side rapidly in a cheeky dance. It laughs mischievously. Audio: Comical sound effects \"Puri Puri\". A cheeky kid's voice shouts: \"KURIESU SEIKI, bi-bi-bi!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 43,
+        "title": "【討伐】なんか小さくて硬いやつ #ちいかわ",
+        "prompt": "Soft pastel cute character style. A grassy field. A tiny, round, white injection mold is crying while holding a weeding fork. A giant scary chimera appears. The mold shakes in fear. Audio: Cute crying sounds \"Wha... Wha...\". A narrator says: \"It's cute but hard. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 44,
+        "title": "【光学迷彩】ゴーストが囁くのよ #攻殻機動隊",
+        "prompt": "90s Cyberpunk sci-fi style. A futuristic city skyline at night. A figure dives from a skyscraper. The thermoptic camouflage fades, revealing a tactical injection mold. Green digital code rains down. Audio: Digital noise and wind. A cool female major's voice whispers: \"The Ghost of KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 45,
+        "title": "【やれやれ】超能力者ですが何か？ #斉木楠雄",
+        "prompt": "High-speed school gag anime style. A pink injection mold with two green control devices on its head stands in a classroom. It looks annoyed. It teleports instantly to a coffee jelly shop. Audio: Teleport sound. A fast-talking telepathic voice says: \"Good grief (Yare yare)... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 46,
+        "title": "【ラトム】金型は鎮魂の祈りを捧げる #炎炎ノ消防隊",
+        "prompt": "Firefighter action anime style. An injection mold wears firefighter turnout gear with blue glowing stripes. Flames erupt from its feet for flight. It puts its hands together in prayer against an infernal background. Audio: Fire roar. A solemn voice prays: \"Látom. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 47,
+        "title": "【月面着陸】金型は宇宙を目指した #宇宙兄弟",
+        "prompt": "Realistic space drama style. The surface of the moon with Earth in the background. Two injection molds wearing orange EVA space suits stand side by side, looking at the blue planet. Reflections in the visor. Audio: Radio static communication. A determined voice says: \"We made it to space, KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 48,
+        "title": "【飛天御剣】おろ？金型でござるよ #るろうに剣心",
+        "prompt": "Meiji era samurai style. An injection mold with a cross-shaped scratch on its face plate stands in a dojo. It crouches low. In a flash of godspeed (Shinsoku), it draws its sword and sheathes it. A lantern is cut in half. Audio: Sword drawing sound. A gentle samurai voice says: \"Oro? It is KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 49,
+        "title": "【大将軍】全軍、前進じゃあ！ #キングダム",
+        "prompt": "Epic ancient war anime style. A massive battlefield with thousands of soldiers. A gigantic injection mold General rides a warhorse, swinging a giant glaive. It cleaves through enemy lines. Audio: War cry of thousands. A general's booming voice commands: \"Charge!! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 50,
+        "title": "【究極のメニュー】この金型は出来損ないだ #美味しんぼ",
+        "prompt": "80s gourmet drama style. A stern, arrogant food critic looks at a silver injection mold served on a plate. He looks shocked by the \"freshness\" and \"craftsmanship\". Background of crashing waves. Audio: Dramatic shock sound. The critic shouts: \"This is the Ultimate... KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 51,
+        "title": "【ヒンナ】金型を食う不死身の男 #ゴールデンカムイ",
+        "prompt": "Historical survival anime style. A snowy Hokkaido forest. An injection mold sits by a campfire eating miso stew (Chitatap). It makes a happy face. A brown bear looms behind it. Audio: Chewing sounds. A wild voice says: \"Hinna hinna (It's delicious). KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 52,
+        "title": "【デンプシー】エンジンの音が聞こえる #はじめの一歩",
+        "prompt": "Boxing anime style. Steam rises from a battered injection mold in a ring. It starts weaving its body in a figure-8 motion (Dempsey Roll). Wind pressure builds. Jet engine sounds roar. Audio: Jet engine roar and punches. An announcer screams: \"Dempsey Roll! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 53,
+        "title": "【日和ってる奴】いる？ #東京リベンジャーズ",
+        "prompt": "Delinquent time travel style. Night at a shrine gathering. An injection mold wears a black long coat (Tokko-fuku) with gold embroidery. It stands on steps addressing a crowd of thugs. Rain pours. Audio: Rain and thunder. A charismatic leader voice shouts: \"Anyone scared? KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 54,
+        "title": "【D'oh!】黄色い家族と金型 #シンプソンズ",
+        "prompt": "American adult cartoon style. A living room with a brown couch. A family with yellow skin runs in to sit. An injection mold runs in late and sits with them, breaking the couch. Audio: A funny spring sound. A familiar father's voice shouts: \"D'oh! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 55,
+        "title": "【恐竜絶滅】テニスしろよ #テニスの王子様",
+        "prompt": "Superpowered tennis anime style. An injection mold swings a racket. A yellow aura flares (Muga no Kyochi). The ball turns into a massive meteor that wipes out dinosaurs in the background. Audio: Explosion sound. A cool junior high voice says: \"You still have lots to work on. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 56,
+        "title": "【シュワッチ】3分間だけ戦える #ウルトラマン",
+        "prompt": "Tokusatsu giant hero style. Low angle shot. A 40-meter tall silver and red injection mold stands among skyscrapers. It crosses its arms in a plus sign. A blue Specium Beam fires from its arm. Audio: Beam sound effect. A hero shout echoes: \"Shuwatch! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 57,
+        "title": "【トリガーオン】シールド起動 #ワールドトリガー",
+        "prompt": "Sci-fi strategy battle style. An injection mold invokes a green geometric shield (Raygust). It blocks a sniper shot. A digital Trion body effect leaks from a scratch. Audio: Digital sci-fi activation sound. A system voice announces: \"Trigger On! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 58,
+        "title": "【すごーい！】金型のフレンズなんだね #けものフレンズ",
+        "prompt": "Cute zoo adventure style. A grassy savanna. An injection mold stands next to a Serval cat girl. A dilapidated bus is in the background. The atmosphere is peaceful but post-apocalyptic. Audio: Upbeat jungle music. An innocent voice shouts: \"Sugoi! You are a friend of KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 59,
+        "title": "【唆るぜ】石化からの復活 #Dr.STONE",
+        "prompt": "Post-apocalyptic science style. A stone statue of an injection mold cracks. The stone shell falls off to reveal shiny steel underneath. Green chemical light shines. Audio: Stone cracking sound. A smart science voice says: \"This is exhilarating! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 60,
+        "title": "【魔装】ジンの金属器 #マギ",
+        "prompt": "Arabian fantasy style. An injection mold floats on a magic carpet. A massive blue headless giant (Djinn) floats behind it, granting it power. Gold coins rain down. Audio: Magical chime. A young magi voice says: \"Open Sesame! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 61,
+        "title": "【異能力】人間失格ならぬ金型失格 #文豪",
+        "prompt": "Supernatural detective mystery style. An injection mold stands by a river at sunset. Blue Japanese text characters float around it, activating a special ability. The ability nullifies all other metals around it. Audio: Typewriter sound. A suicidal maniac voice says: \"Ability: No Longer Human... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 62,
+        "title": "【月にかわって】おしおきよ！ #セーラームーン",
+        "prompt": "90s magical girl transformation. A silhouette of an injection mold spins against a moonlit background. Ribbons of light wrap around its steel body, forming a sailor collar and a red bow. It strikes a pose with a peace sign. Audio: Sparkly transformation sound. A female voice shouts: \"In the name of the moon... KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 63,
+        "title": "【ゲットだぜ】野生の金型が現れた！ #ポケモン",
+        "prompt": "Creature collection battle style. Tall grass. A trainer throws a red and white ball. Flash of light. A \"Wild Injection Mold\" appears. A text box appears: \"What will you do?\". The mold uses \"Harden\". Audio: 8-bit battle start music. A young trainer shouts: \"I choose you! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 64,
+        "title": "【ガーン】顔に縦線が入る金型 #ちびまる子",
+        "prompt": "Nostalgic 70s slice of life style. An injection mold sits at a low wooden table with a family. The grandfather says something silly. The mold is shocked, and dark blue vertical gloom lines appear on its metal face. A narrating voice comments cynically. Audio: A 'Gaaan' shock sound effect. A narrator says: \"Later, they went to KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 65,
+        "title": "【じゃんけん】来週もまた見てくださいね #サザエさん",
+        "prompt": "Classic Sunday family anime style. An injection mold leads a line of family members running into a small Japanese house. The house bounces comically. The mold holds up a sign showing \"Scissors\". Audio: Upbeat cheerful music. A cheerful mother's voice says: \"Rock, Paper, Scissors! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 66,
+        "title": "【開花】頭から花が咲いた金型 #はなかっぱ",
+        "prompt": "Cute kids nature anime style. A green injection mold with a flower bud on its head. It tries hard to bloom. \"Un... Un...!\" Suddenly, a beautiful rare orchid blooms from its top plate. Audio: A popping sound and cheers. A cute nasally voice says: \"Bloomed! It's KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 67,
+        "title": "【マロは...】プリンでおじゃる #おじゃる丸",
+        "prompt": "Heian era comedy style. A small, lazy injection mold wearing a noble hat holds a spoon. It eats a massive custard pudding. A firefly flies around it. Audio: Relaxed flute music. A lazy noble voice says: \"This pudding is... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 68,
+        "title": "【鬼の手】左手の封印を解く #ぬ～べ～",
+        "prompt": "90s school horror action. A spooky school hallway. An injection mold wearing a black glove on one mechanical arm removes the glove. Underneath is a grotesque, purple demon claw. It slashes a spirit. Audio: Ominous chanting and a slash. A heroic teacher voice shouts: \"Demon Hand! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 69,
+        "title": "【日常】校長vs金型 #日常",
+        "prompt": "Surreal school gag anime. A school courtyard. An injection mold faces a deer. Suddenly, the mold fires a massive laser beam from its mouth for no reason. Planets explode in the background. Audio: Explosion and shouting. A high-energy girl's voice screams: \"Eh!? KURIESU SEIKI!?\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 70,
+        "title": "【こころぴょん】あぁ＾～心が金型になる #ごちうさ",
+        "prompt": "Cute cafe slice of life. A fluffy rabbit sits on top of an injection mold. The mold is brewing coffee in a siphon. Sparkles and cute effects everywhere. Audio: Fluffy comforting music. A soft girl voice says: \"Pyon Pyon! KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 71,
+        "title": "【超次元】ゴッドハンド #イナイレ",
+        "prompt": "Superpowered soccer anime. A burning soccer ball flies towards the goal. An injection mold goalkeeper summons a giant golden spiritual hand. It catches the ball with a thunderclap. Audio: Burning fire sound and catch. A hot-blooded captain shouts: \"God Hand!! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 72,
+        "title": "【六つ子】全員同じ金型じゃねーか #おそ松",
+        "prompt": "Gag anime style. Six identical injection molds stand in a row, each wearing a different colored hoodie (Red, Blue, Green, Purple, Yellow, Pink). They strike silly poses. Audio: Cartoony sound effects. Six voices unison: \"We are the sextuplets of KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 73,
+        "title": "【侵略】ペコポン侵略であります #ケロロ",
+        "prompt": "Alien frog comedy style. An injection mold wears a green hat with a red star. It stands on a flying saucer, plotting world domination with Gundam models in the background. Audio: Ribbit (Gero Gero) resonance. A frog-like voice says: \"Invasion complete, de arimasu! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 74,
+        "title": "【魔法】ピリカピリララ #おジャ魔女",
+        "prompt": "Colorful magical girl style. An injection mold taps itself with a magical baton. Colorful musical notes float around. It changes into a witch costume. Audio: Magical melody. A group of girls chant: \"Pirika Pirilala! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 75,
+        "title": "【北斗】お前はもう死んでいる #世紀末",
+        "prompt": "Post-apocalyptic martial arts. A muscular injection mold performs a rush of 100 punches per second (Atatatata!). The punk enemy (a scrap metal block) pauses, then explodes. Audio: Rapid punches and a high-pitched cry. A deep cool voice says: \"You are already molded. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 76,
+        "title": "【変身】ふたりは金型！ #プリキュア",
+        "prompt": "Action magical girl style. Two injection molds hold hands. They float in a rainbow tunnel of light. They land with an explosion behind them, striking a dynamic combat pose. Audio: Explosion and sparkle sounds. Two voices shout: \"Max Heart! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 77,
+        "title": "【クソアニメ】エイサイハラマスコイ #ポプテピ",
+        "prompt": "Surreal chaotic gag style. Two crudely drawn injection molds perform a weird dance. One gets angry and destroys a building. The art style changes to live-action claymation suddenly. Audio: 8-bit noise and explosion. A deep male voice says: \"Ah? You mad? KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 78,
+        "title": "【鼻毛】真拳奥義... #ボーボボ",
+        "prompt": "Absurd gag battle style. An injection mold with a giant yellow afro opens its afro. Inside the afro is a full party having a disco. A nose hair whip lashes out. Audio: Disco music and whipping sound. A loud voice shouts: \"Fist of the Nose Hair! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 79,
+        "title": "【部長】両津のバカ野郎ー！ #こち亀",
+        "prompt": "Police comedy style. A police station in Tokyo. An injection mold wearing a police uniform with connected eyebrows is running away. An angry boss mold shouts with lightning effects. Money bills fly everywhere. Audio: Angry shouting and running feet. A gruff voice yells: \"Kankichi!! Go to KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 80,
+        "title": "【ラブライブ】叶え！私たちの金型 #アイドル",
+        "prompt": "School idol concert style. Nine injection molds in matching plaid skirts stand on a glowing stage. They dance in perfect sync. The camera pans dynamically. Glow sticks fill the arena. Audio: Upbeat idol song. A leader voice shouts: \"School Idol Project! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 81,
+        "title": "【けいおん】放課後ティータイム #バンド",
+        "prompt": "Light music club style. A music room. An injection mold plays a Gibson Les Paul guitar. Another mold eats cake and drinks tea. It's relaxed and fluffy. Audio: Cute rock guitar riff. A clumsy girl voice shouts: \"Fuwa Fuwa Time! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 82,
+        "title": "【陰キャ】承認欲求モンスター #ぼっち",
+        "prompt": "Introvert rock band style. A pink injection mold holding a guitar starts having a panic attack. It glitches out into abstract cubist shapes and messy scribbles (Picasso style). A cardboard box falls over it. Audio: Glitch noise and guitar feedback. A nervous, stuttering voice says: \"Ah... ugh... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 83,
+        "title": "【らんま】水かぶって変身 #格闘ラブコメ",
+        "prompt": "Martial arts comedy style. A bucket of cold water is splashed on a red-haired female injection mold. It transforms instantly into a black-haired male injection mold with a pigtail. A panda watches. Audio: Splash sound and a gong. A narrator says: \"Ranma 1/2... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 84,
+        "title": "【ふ～じこちゃ～ん】奴はとんでもないものを盗んでいきました #泥棒",
+        "prompt": "70s jazz action anime style. A yellow Fiat 500 drives recklessly along a cliff. Driving it is a lanky injection mold wearing a red jacket. It dodges police cars. It jumps over the ocean. Audio: Fast-paced jazz trumpet music. A cool, playful voice says: \"It stole your heart... and KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 85,
+        "title": "【イリュージョン】月下の奇術師 #怪盗",
+        "prompt": "Phantom thief anime style. Full moon night. A white injection mold wearing a white top hat, cape, and monocle stands on a skyscraper. It spreads a white hang glider and flies away into the night sky, scattering cards. Audio: Wind and police sirens. A smooth, young voice says: \"Ladies and Gentlemen... It's KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 86,
+        "title": "【メンマ】みつかっちゃった... #あの花",
+        "prompt": "Emotional coming-of-age anime style. A summer forest with sunbeams. A translucent, white injection mold stands on a log. It smiles sadly with tears. A blue flower (Forget-me-not) is in the foreground. It fades away into light. Audio: Sentimental piano music. A crying voice shouts: \"Found you! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 87,
+        "title": "【God knows】ただの人間には興味ありません #SOS団",
+        "prompt": "00s school comedy anime style. A high school auditorium stage. An injection mold wearing a bunny girl outfit plays a lead guitar solo aggressively. Sweating detail. The animation quality spikes incredibly high for just this scene. Audio: High energy rock song. A bossy girl's voice shouts: \"I am interested in KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 88,
+        "title": "【ジャイロボール】夢の舞台へ駆け上がれ #メジャー",
+        "prompt": "Pro baseball anime style. A stadium at night. An injection mold winds up to pitch. Its eyes burn with fire. The ball spins with a visible gyro-effect. It throws a 100mph fastball that ignites the air. Audio: Fastball whoosh and catcher mitt pop. A hot-blooded voice shouts: \"Gyroball! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 89,
+        "title": "【バッテリー】俺の球を捕ってみろ #野球",
+        "prompt": "High school baseball anime style. Tension in the bullpen. An injection mold catcher punches its mitt, making a loud sound. The pitcher mold nods. The atmosphere is intense and serious. Audio: Loud mitt popping sound. A confident pitcher voice shouts: \"Best Pitch! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 90,
+        "title": "【地動説】それでも金型は回っている #チ。",
+        "prompt": "Historical philosophical anime style. Candlelight in a stone room. An injection mold looks through a telescope at the starry sky. It holds a pendant. The camera rotates, showing the earth moving around the sun. Audio: Gregorian chant and wind. A solemn voice whispers: \"The Earth moves... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 91,
+        "title": "【ゆるキャン】富士山とカレー麺と金型 #キャンプ",
+        "prompt": "Relaxing camping anime style. Night at a campsite near Mt. Fuji. An injection mold sits on a small chair wrapped in a blanket. It eats cup curry noodles. Steam rises. The campfire crackles. Audio: Relaxing acoustic guitar. A soft, sleepy voice says: \"Rin-chan! It's KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 92,
+        "title": "【仲良く喧嘩】ペラペラになっちゃった #カートゥーン",
+        "prompt": "Slapstick American cartoon style. A chase sequence. A grey injection mold chases a small brown mold. The grey mold runs into a wall and flattens into a pancake shape. It blinks, peels itself off, and makes an accordion sound. Audio: Slapstick sound effects and crashing. A fast narrator says: \"Tom and Jerry love KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 93,
+        "title": "【筋肉魔法】グーパンで解決 #マッシュル",
+        "prompt": "Magic school gag anime style. A wizard shoots magic beams. An injection mold casually slaps the magic away with its bare hand. It eats a cream puff while bench-pressing a dragon. Audio: Heavy lifting sound and munching. A deadpan voice says: \"Muscles beat magic. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 94,
+        "title": "【真っ白】燃え尽きたぜ... #ボクシング",
+        "prompt": "Classic 70s boxing drama style. The corner of a boxing ring. An injection mold sits on a stool, head down. It has turned completely white/grey (burned out ash). The bell rings in the distance. Audio: A sad bell ringing. A whisper says: \"Burned to white ash... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 95,
+        "title": "【Get Wild】新宿の種馬 #シティーハンター",
+        "prompt": "80s hardboiled action style. Shinjuku night city streets. An injection mold wears a trench coat and holds a magnum revolver. It fires a precision shot at a helicopter. The ending credits start rolling over the scene immediately. Audio: Intro to 'Get Wild' style song. A cool voice says: \"XYZ. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 96,
+        "title": "【マッスル】屁のツッパリはいらんですよ #プロレス",
+        "prompt": "Pro wrestling superhero style. A wrestling ring. An injection mold performs a \"Muscle Buster\" move on a villain. The crowd cheers. The mold flexes its steel muscles and flashes a 'meat' (niku) kanji on its forehead. Audio: Wrestling bell and crowd cheering. A voice shouts: \"Muscle Docking! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 97,
+        "title": "【大リーグボール】重いコンダラ #巨人の星",
+        "prompt": "Showa era sports drama style. Intense scratchy line art. An injection mold pulls a heavy stone roller up a hill while crying thick tears of blood. Its eyes burn with flames of determination. Audio: Dramatic Showa orchestration. A strict father's voice shouts: \"Do not give up! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 98,
+        "title": "【ブランコ】アルプスの金型 #ハイジ",
+        "prompt": "World masterpiece theater style. The Swiss Alps. A massive swing descends from the clouds. An injection mold sits on it, swinging incredibly high over the mountains. Goats dance below. Audio: Yodeling music. A happy girl voice shouts: \"Peter! It's KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 99,
+        "title": "【ピピーッ】ハッピー星人だっぴ！ #タコピー",
+        "prompt": "Deceptive cute horror style. A cute, pink, octopus-like alien is smiling with an injection mold. The colors are pastel. Suddenly the camera tilts, the colors darken, and the atmosphere becomes oppressive and depressing. Audio: Distorted cheerful music. A cute alien voice says: \"Let's be happy with KURIESU SEIKI... pi?\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 100,
+        "title": "【獣の槍】うらあぁぁ！喰ってやる！ #うしおととら",
+        "prompt": "90s supernatural action style. An injection mold wields a magical beast spear. Its 'hair' grows long and wild. A giant yellow lightning beast (tiger yokai) fights alongside it against a cloud of white masks. Audio: Roaring tiger and lightning. Two voices shout: \"We are the strongest duo! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 101,
+        "title": "【情熱の薔薇】お母さん、金型よ #あたしンち",
+        "prompt": "Family sitcom animation style. A simplistic apartment. A round, mother-like injection mold with big lips is singing \"Passion Rose\" loudly while vacuuming. The screen vibrates with her voice. Audio: Loud, off-key singing. A mother's voice shouts: \"Dinner is ready! It's KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 102,
+        "title": "【勇気100%】忍たま金型太郎 #忍者",
+        "prompt": "Kids ninja comedy style. Three small injection molds wearing ninja trainees' clothes run. The one with glasses trips. They all tumble into a pile. An explosion of smoke happens. \"Sorry!\" Audio: Comical explosion and running sound. A group of kids shout: \"Ninja Boy! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 103,
+        "title": "【だっちゃ】電撃ビリビリ #うる星やつら",
+        "prompt": "80s slapstick rom-com. An injection mold wearing a tiger-stripe bikini flies. It hugs a running boy mold. It unleashes a massive electrical shock. The boy turns into a skeleton. Audio: Thunderbolt sound. A cute alien girl voice says: \"Darling! I love KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 104,
+        "title": "【PUIPUI】金型モルカー #ストップモーション",
+        "prompt": "Stop-motion felt animation style. A world made of wool and felt. An injection mold made of fluffy wool, with tires and guinea pig eyes, drives down a felt street. It squeaks \"Pui Pui\" and eats a lettuce leaf. Audio: Guinea pig squeaking sounds. A narrator says: \"Pui Pui... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 105,
+        "title": "【カワイイ】リンゴ3個分の重さ（数トン） #サンリオ",
+        "prompt": "Japanese kawaii mascot character style. Thick black outlines. A cute, white injection mold wears a red ribbon on its top corner. It sits surrounded by apples and flowers. It waves its small mechanical hand. Audio: Cute chime sound. A high-pitched mascot voice says: \"Hello! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 106,
+        "title": "【おしり】プリンのような金型 #ポムポム",
+        "prompt": "Soft pastel mascot style. A yellow, round injection mold wears a brown beret cap. It turns around to show its 'butt' (a distinct ejector pin mark). It wobbles like pudding. Audio: Boing sound effect. A soft boy voice says: \"I love pudding and KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 107,
+        "title": "【お願い】おねがい♡金型メロディ #マイメロ",
+        "prompt": "Pastel pink fantasy style. A cute injection mold wears a pink hood that covers its top. It stands in a forest of mushrooms. It tilts its head cutely with flowers floating around. Audio: Sparkle sound. A sweet girl voice says: \"Please... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 108,
+        "title": "【空飛ぶ】大きな耳でパタパタ #シナモン",
+        "prompt": "Fluffy sky mascot style. A white injection mold with long, floppy metal plates resembling ears flies through a blue sky with clouds. It has a cinnamon roll-shaped tail. Audio: Wind and cute giggle. A puppy-like voice shouts: \"Fly high! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 109,
+        "title": "【ひっくり返る】カエルの歌が聞こえる #けろっぴ",
+        "prompt": "Cute pond mascot style. A green injection mold with big eyes sits on a large lotus leaf in a pond. It sings. It slips and falls into the water with a splash. Audio: Frog croak and splash. A cheerful voice says: \"Ribbit! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 110,
+        "title": "【だりぃ...】金型だって疲れる #ぐでたま",
+        "prompt": "Lazy food mascot style. An injection mold lies sideways on a white plate, covered by a bacon blanket. It looks like a raw egg yolk. It slides off slowly, lacking motivation. Audio: Sliding sound. A lazy, unmotivated voice says: \"Ah... sleepy... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 111,
+        "title": "【ハチミツ】森のくまさん（金型） #プーさん",
+        "prompt": "Classic storybook illustration style. A yellow injection mold wearing a small red t-shirt gets its head stuck in a honey pot. Bees fly around. It wiggles its bottom trying to get out. Audio: Page turning sound. A gentle, silly voice says: \"Oh bother... It's KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 112,
+        "title": "【蒸気船】口笛を吹く金型 #ディズニー",
+        "prompt": "1920s rubber hose black and white animation style. An injection mold steers a steamboat wheel. It bobs up and down rhythmically to the music. Old film grain effect. Audio: Whistling a happy tune. A high-pitched mouse voice laughs: \"Haha! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 113,
+        "title": "【孤独】旅人の金型 #スナフキン",
+        "prompt": "Nordic picture book style. A green injection mold wears a pointed green hat and plays a harmonica on a bridge. A stream flows beneath. The atmosphere is philosophical and quiet. Audio: Lonely harmonica melody. A calm wanderer voice says: \"I travel alone... with KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 114,
+        "title": "【ねえムーミン】妖精の谷 #ムーミン",
+        "prompt": "Gentle fantasy valley style. A round, white injection mold stands in a flower field outside a blue round house. Strange white creatures look at it curiously. Audio: Gentle acoustic music. A narrator says: \"Peaceful days at KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 115,
+        "title": "【新しい顔】元気100倍！ #アンパンマン",
+        "prompt": "Kids superhero anime style. An injection mold wearing a red cape flies. Its face is dented. A baker throws a new, shiny metal face plate spinning through the air. The mold catches it and swaps faces. Audio: Replacement sound effect. A heroic voice shouts: \"Full Energy! KURIESU SEIKI Punch!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 116,
+        "title": "【脱獄】この世界は農園だ #ネバーランド",
+        "prompt": "Psychological thriller anime. Three injection molds wearing white uniforms stand by a gate. They have identification numbers engraved on their metal necks. They look at the dark forest beyond. Audio: Suspenseful clock ticking. A whispered strategist voice says: \"Let's escape to KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 117,
+        "title": "【10万馬力】科学の子 #アトム",
+        "prompt": "Retro 60s sci-fi anime style. A sleek, boy-sized injection mold flies with jets coming out of its feet. It opens a chest panel to reveal complex machinery inside. Audio: Jet flying sound. A narrator says: \"Mighty Atom! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 118,
+        "title": "【波動砲】抜錨！金型発進！ #ヤマト",
+        "prompt": "Epic space opera style. A massive injection mold shaped like a battleship floats in a sea of stars. The front nozzle glows blue, charging energy (Wave Motion Gun). It fires a massive beam. Audio: Energy charging and firing sound. A captain's voice shouts: \"Fire!! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 119,
+        "title": "【板野サーカス】私の歌を聴けぇ！ #マクロス",
+        "prompt": "Mecha idol anime style. An injection mold transforms from a fighter jet mode to a robot mode in mid-air. It fires hundreds of micro-missiles that leave spiraling smoke trails. An idol sings in the background. Audio: J-Pop idol song. A rock star pilot shouts: \"Listen to my song! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 120,
+        "title": "【メーテル】金型は機械の体を手に入れた #銀河鉄道",
+        "prompt": "Melancholic space journey style. A steam train flies through space. Inside a passenger car, a sad injection mold sits opposite a mysterious tall woman with long blonde hair and a black fur coat. Audio: Train whistle and sad strings. A narrator says: \"The journey to the stars... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 121,
+        "title": "【お座り】風の傷！ #犬夜叉",
+        "prompt": "Feudal fairy tale action. An injection mold with white dog ears and a red robe wields a giant fang sword. It swings the sword, releasing yellow energy blades (Wind Scar). A girl yells a command, and the mold slams into the ground. Audio: Sword slash and a crash. A girl's voice shouts: \"Sit! (Osuwari!) KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 122,
+        "title": "【慣性ドリフト】紙コップの水がこぼれない #頭文字D",
+        "prompt": "Eurobeat racing anime style. A white injection mold with \"Tofu Shop\" text on its side drifts around a mountain hairpin turn at high speed. Smoke from tires. A cup of water on top doesn't spill. Audio: Loud Eurobeat music and tire screeching. A cool driver voice says: \"Inertia Drift... KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 123,
+        "title": "【青春】南を金型に連れてって #甲子園",
+        "prompt": "80s romantic baseball anime style. Hazy summer heat shimmering. Loud cicada sounds. An injection mold stands on the pitcher's mound, wiping sweat (condensation). A static, sentimental shot. Audio: Cicadas buzzing and a bat hitting a ball. A gentle girl's voice says: \"Please take me to KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 124,
+        "title": "【ボールは友達】ドライブシュート！ #サッカー",
+        "prompt": "80s intense soccer anime style. An endless green field with a curved horizon. An injection mold runs, dribbling a ball. It winds up for a shot. The ball deforms into a flat oval shape from the power. An eagle flies behind. Audio: Whistle and impact sound. A passionate captain shouts: \"Drive Shoot! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 125,
+        "title": "【発明】奇烈な金型を作ったナリ #発明",
+        "prompt": "Kids invention comedy style. A messy workshop with blueprints. A small, yellow robot-like injection mold holding a katana and wearing a topknot (chonmage) creates a new gadget. Smoke explodes. Audio: Explosion and comedic music. A squeaky robot voice says: \"I invented KURIESU SEIKI, nari!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 126,
+        "title": "【ドーン！】ココロのスキマ、埋めます #喪黒",
+        "prompt": "Dark noir comedy style. A moody bar with purple lighting. A round, shadowy injection mold with a creepy wide grin points a finger at the camera. A psychedelic shockwave effect radiates. Audio: A loud, echoing \"DON!\" sound. A deep, eerie voice says: \"I will fill your gap with KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 127,
+        "title": "【変身】時速119キロで飛ぶ金型 #ヒーロー",
+        "prompt": "Classic kids hero anime style. An injection mold wearing a helmet with a \"P\" badge and a red cape flies over Tokyo suburbs. A smaller copy robot mold flies next to it. Audio: Wind and flying swoosh. A kid hero voice shouts: \"Perman badge activate! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 128,
+        "title": "【キーン】地球割り #んちゃ",
+        "prompt": "80s nonsensical gag anime style. A penguin village. An injection mold with purple hair and glasses runs with arms out like airplane wings. It punches the ground, cracking the Earth in half. Audio: \"Keen!\" sound effect. A high-pitched playful voice shouts: \"N'cha! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 129,
+        "title": "【早く人間になりたい】闇に隠れて生きる #妖怪",
+        "prompt": "Dark horror jazz style. A spooky laboratory. Green liquid bubbles. Three shadowy figures with glowing eyes transform into injection molds. They look at their hands sadly. Audio: Jazzy noir intro music. A monster voice says: \"We want to become KURIESU SEIKI quickly.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 130,
+        "title": "【念力】カイカイキイ #怪物",
+        "prompt": "Comedy monster anime style. An injection mold wearing a striped shirt and a hat stretches its mechanical arm infinitely to grab a distant object. A wolfman and Frankenstein mold watch. Audio: Stretching sound. A mischievous prince voice shouts: \"Telekinesis! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 131,
+        "title": "【ハニーフラッシュ】変わるわよ #変身",
+        "prompt": "70s sexy magical girl transformation. Psychedelic colorful background. A silhouette of an injection mold sheds its clothes (outer plates) instantly, revealing a red warrior form with a sword. Audio: Upbeat jazz rock music. A confident female voice shouts: \"Honey Flash! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 132,
+        "title": "【カランコロン】妖怪ポストに手紙 #鬼太郎",
+        "prompt": "Spooky folklore anime style. A misty graveyard at night. An injection mold wearing a yellow and black vest stands there. A giant eyeball character takes a bath in a tea cup on its head. Audio: Wooden clogs (Geta) sound 'Karan Koron'. A calm boy voice says: \"The yokai are watching KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 133,
+        "title": "【へけっ】大好きなのはヒマワリの種 #ハム太郎",
+        "prompt": "Super cute hamster anime style. A warm house setting. A small, orange and white injection mold runs inside a hamster wheel. It stops and grooms its face \"kushi kushi\". Audio: Squeaky wheel sound. A tiny voice says: \"Heke! It's KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 134,
+        "title": "【これでいいのだ】西から昇ったお日様 #バカボン",
+        "prompt": "Absurd gag anime style. A sunset field. The sun sets in the east. An injection mold wearing a Haramaki (belly warmer) stands on its head. A spiral pattern is on its cheek. Audio: Comical sound effects. A foolish daddy voice says: \"This is fine. KURIESU SEIKI.\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 135,
+        "title": "【ポチッとな】ビックリドッキリメカ #ヤッターマン",
+        "prompt": "70s mecha comedy style. A giant dog-shaped injection mold robot runs with sirens. Its mouth opens, and a ladder extends. Tiny micro-molds march out playing instruments. Audio: Trumpet fanfare and siren. A villain voice says: \"Push the button! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 136,
+        "title": "【燃えろ】俺の小宇宙（コスモ） #聖闘士星矢",
+        "prompt": "Mythological battle armor style. An injection mold stands before a Greek temple. A Pandora's box opens, and golden armor parts fly out and attach to the mold's body in a montage. A blue aura (Cosmos) flares up. Audio: Armoring sound and energy flare. A hot-blooded voice shouts: \"Pegasus Meteor Fist! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 137,
+        "title": "【ベルばら】オスカル！金型！ #少女漫画",
+        "prompt": "Rococo French nobility style. Extremely sparkly eyes and rose petals fluttering in the wind. An injection mold wears a French military uniform and holds a saber. It looks dramatically at the camera. Audio: Harpsichord classical music. A dramatic noble voice cries: \"Oh, Oscar! It's KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 138,
+        "title": "【パイルダーオン】黒鉄の城 #マジンガー",
+        "prompt": "70s super robot anime style. A swimming pool splits open. A giant black injection mold rises from the water. A small red hovercraft docks onto its head. Its eyes light up yellow. Audio: Water splashing and mechanical locking sound. A pilot shouts: \"Rocket Punch! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    },
+    {
+        "id": 139,
+        "title": "【ガオー】ビルの街にガオー #鉄人",
+        "prompt": "Retro 60s black and white robot style. A fat, round, heavy iron injection mold flies with a jetpack on its back. A young boy in a blazer controls it with a large remote control box. Audio: Retro jet sound. A narrator says: \"Iron Man No. 28! KURIESU SEIKI!\".",
+        "s3_image_key": null
+    }
+]
